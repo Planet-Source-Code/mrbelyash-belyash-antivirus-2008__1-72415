@@ -1,0 +1,312 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\MY_Prog\ExeScaner\Vista\new
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Exchange=No
+Jet 2.x=No
+Paradox=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+AVHlp.CHI=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+D:\Program Files\Common Files\System\ado\msado20.tlb=
+E:\MY_Prog\ExeScaner\RUS\new\psapi.dll=
+D:\WINDOWS\system32\shlwapi.dll=
+D:\WINDOWS\system32\urlmon.dll=
+E:\MY_Prog\ExeScaner\RUS\new\appblock.exe=
+E:\MY_Prog\ExeScaner\RUS\new\hkcu_belyash.exe=
+E:\MY_Prog\ExeScaner\RUS\new\hkcuro_belyash.exe=
+E:\MY_Prog\ExeScaner\RUS\new\HKLM_Belyash.exe=
+E:\MY_Prog\ExeScaner\RUS\new\HKLMRO_Belyash.exe=
+E:\MY_Prog\ExeScaner\RUS\new\monitor.exe=
+E:\MY_Prog\ExeScaner\RUS\new\updater.exe=
+E:\MY_Prog\ExeScaner\RUS\new\VBRegedit.exe=
+E:\MY_Prog\ExeScaner\RUS\new\dbgwproc.dll=
+F:\WINDOWS\system32\comctl32.dll=
+F:\Program Files\Common Files\System\ado\msado20.tlb=
+E:\MY_Prog\ExeScaner\Vista\new\psapi.dll=
+F:\WINDOWS\system32\shlwapi.dll=
+F:\WINDOWS\system32\urlmon.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+D:\WINDOWS\system32\MSCOMCTL.OCX=
+D:\WINDOWS\system32\comdlg32.ocx=
+D:\WINDOWS\system32\MSSTDFMT.DLL=
+D:\WINDOWS\system32\scrrun.dll=
+F:\WINDOWS\system32\COMCTL32.OCX=
+F:\WINDOWS\system32\MSCOMCTL.OCX=
+F:\WINDOWS\system32\COMDLG32.OCX=
+F:\WINDOWS\system32\msstdfmt.dll=
+F:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+e:\my_prog\exescaner\rus\new\appblock.exe=
+e:\my_prog\exescaner\rus\new\hkcu_belyash.exe=
+e:\my_prog\exescaner\rus\new\hkcuro_belyash.exe=
+e:\my_prog\exescaner\rus\new\hklm_belyash.exe=
+e:\my_prog\exescaner\rus\new\hklmro_belyash.exe=
+e:\my_prog\exescaner\rus\new\monitor.exe=
+e:\my_prog\exescaner\rus\new\updater.exe=
+e:\my_prog\exescaner\rus\new\vbregedit.exe=
+e:\my_prog\exescaner\rus\new\progress.ctl=
+e:\my_prog\exescaner\rus\new\progress.ctx=
+e:\my_prog\exescaner\rus\new\attpro.bin=
+e:\my_prog\exescaner\rus\new\avhlp.chm=
+e:\my_prog\exescaner\rus\new\avbase.bel=
+e:\my_prog\exescaner\rus\new\xpcheckbox.ctl=
+e:\my_prog\exescaner\rus\new\xpcheckbox.ctx=
+e:\my_prog\exescaner\rus\new\xpcmdbutton.ctl=
+e:\my_prog\exescaner\rus\new\xpcmdbutton.ctx=
+e:\my_prog\exescaner\rus\new\xpradiobutton.ctl=
+e:\my_prog\exescaner\rus\new\xpradiobutton.ctx=
+e:\my_prog\exescaner\rus\new\read me.txt=
+e:\my_prog\exescaner\rus\new\dbgwproc.dll=
+f:\windows\system32\comctl32.dll=
+f:\windows\system32\comctl32.ocx=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+E:\MY_Prog\ExeScaner\RUS\new\appblock.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\hkcu_belyash.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\hkcuro_belyash.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\HKLM_Belyash.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\HKLMRO_Belyash.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\monitor.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\updater.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\VBRegedit.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Progress.ctl=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Progress.ctx=Yes
+E:\MY_Prog\ExeScaner\RUS\new\AttPro.bin=Yes
+E:\MY_Prog\ExeScaner\RUS\new\AVHlp.chm=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Avbase.bel=Yes
+E:\MY_Prog\ExeScaner\RUS\new\xpcheckbox.ctl=Yes
+E:\MY_Prog\ExeScaner\RUS\new\xpcheckbox.ctx=Yes
+E:\MY_Prog\ExeScaner\RUS\new\xpcmdbutton.ctl=Yes
+E:\MY_Prog\ExeScaner\RUS\new\xpcmdbutton.ctx=Yes
+E:\MY_Prog\ExeScaner\RUS\new\xpradiobutton.ctl=Yes
+E:\MY_Prog\ExeScaner\RUS\new\xpradiobutton.ctx=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Read Me.txt=Yes
+E:\MY_Prog\ExeScaner\RUS\new\dbgwproc.dll=Yes
+F:\WINDOWS\system32\comctl32.dll=Yes
+F:\WINDOWS\system32\COMCTL32.OCX=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Vista\BGAntiVirus.exe=Yes
+F:\WINDOWS\system32\msvbvm60.dll=Yes
+F:\WINDOWS\system32\oleaut32.dll=Yes
+F:\WINDOWS\system32\olepro32.dll=Yes
+F:\WINDOWS\system32\asycfilt.dll=Yes
+F:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+F:\WINDOWS\system32\urlmon.dll=Yes
+F:\WINDOWS\system32\shlwapi.dll=Yes
+F:\WINDOWS\system32\hhctrl.ocx=Yes
+F:\WINDOWS\system32\itss.dll=Yes
+F:\WINDOWS\system32\itircl.dll=Yes
+F:\WINDOWS\system32\hh.exe=Yes
+E:\MY_Prog\ExeScaner\Vista\new\psapi.dll=Yes
+F:\WINDOWS\system32\scrrun.dll=Yes
+F:\WINDOWS\system32\msvcrt.dll=Yes
+F:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+F:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+F:\WINDOWS\system32\MSJET35.DLL=Yes
+F:\WINDOWS\system32\MSJTER35.DLL=Yes
+F:\WINDOWS\system32\MSJINT35.DLL=Yes
+F:\WINDOWS\system32\vbajet32.dll=Yes
+F:\WINDOWS\system32\expsrv.dll=Yes
+F:\WINDOWS\system32\MSRD2X35.DLL=Yes
+F:\WINDOWS\system32\MSREPL35.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+F:\WINDOWS\system32\VB5DB.DLL=Yes
+F:\WINDOWS\system32\msstdfmt.dll=Yes
+F:\WINDOWS\system32\COMDLG32.OCX=Yes
+F:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+F:\WINDOWS\system32\PICCLP32.OCX=Yes
+F:\WINDOWS\system32\MSADODC.OCX=Yes
+F:\WINDOWS\system32\DBGRID32.OCX=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+F:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\MY_Prog\ExeScaner\RUS\new\BGAntiVirus.exe=$(AppPath)
+D:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\urlmon.dll=$(WinSysPath)
+D:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+D:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\itss.dll=$(WinSysPath)
+D:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+D:\WINDOWS\system32\hh.exe=$(WinSysPath)
+E:\MY_Prog\ExeScaner\RUS\new\psapi.dll=$(WinSysPath)
+D:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+D:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+D:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+D:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+D:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+D:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\MY_Prog\ExeScaner\RUS\new\appblock.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\hkcu_belyash.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\hkcuro_belyash.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\HKLM_Belyash.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\HKLMRO_Belyash.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\monitor.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\updater.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\VBRegedit.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Progress.ctl=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Progress.ctx=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\AttPro.bin=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\AVHlp.chm=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Avbase.bel=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\xpcheckbox.ctl=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\xpcheckbox.ctx=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\xpcmdbutton.ctl=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\xpcmdbutton.ctx=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\xpradiobutton.ctl=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\xpradiobutton.ctx=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Read Me.txt=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\dbgwproc.dll=$(WinSysPath)
+E:\MY_Prog\ExeScaner\RUS\new\MONITOR\Package\Support\shlwapi.dll=$(WinSysPath)
+F:\WINDOWS\system32\comctl32.dll=$(WinSysPath)
+F:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+E:\MY_Prog\ExeScaner\RUS\new\Vista\BGAntiVirus.exe=$(AppPath)
+F:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\urlmon.dll=$(WinSysPath)
+F:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+F:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+F:\WINDOWS\system32\itss.dll=$(WinSysPath)
+F:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+F:\WINDOWS\system32\hh.exe=$(WinSysPath)
+E:\MY_Prog\ExeScaner\Vista\new\psapi.dll=$(WinSysPath)
+F:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+F:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+F:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+F:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+F:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+F:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+F:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+F:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+F:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+F:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+F:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+F:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\MY_Prog\ExeScaner\RUS\new\BGAntiVirus.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\appblock.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\hkcu_belyash.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\hkcuro_belyash.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\HKLM_Belyash.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\HKLMRO_Belyash.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\monitor.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\updater.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\VBRegedit.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\Progress.ctl=No
+E:\MY_Prog\ExeScaner\RUS\new\Progress.ctx=No
+E:\MY_Prog\ExeScaner\RUS\new\AttPro.bin=No
+E:\MY_Prog\ExeScaner\RUS\new\AVHlp.chm=No
+E:\MY_Prog\ExeScaner\RUS\new\Avbase.bel=No
+E:\MY_Prog\ExeScaner\RUS\new\xpcheckbox.ctl=No
+E:\MY_Prog\ExeScaner\RUS\new\xpcheckbox.ctx=No
+E:\MY_Prog\ExeScaner\RUS\new\xpcmdbutton.ctl=No
+E:\MY_Prog\ExeScaner\RUS\new\xpcmdbutton.ctx=No
+E:\MY_Prog\ExeScaner\RUS\new\xpradiobutton.ctl=No
+E:\MY_Prog\ExeScaner\RUS\new\xpradiobutton.ctx=No
+E:\MY_Prog\ExeScaner\RUS\new\Read Me.txt=No
+E:\MY_Prog\ExeScaner\RUS\new\Vista\BGAntiVirus.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Belyash AntiTrojan 2008b
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Belyash AntiTrojan 2008b
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Belyash AntiTrojan 2008b]
+Icon1=BGAntiVirus.exe
+Title1=Belyash AntiTrojan 2008b
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=monitor.exe
+Title2=Shield
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3="Read Me.txt"
+Title3=Read Me
+StartIn3=$(AppPath)
+Key3=Icon4
+Icon4=updater.exe
+Title4=Update
+StartIn4=$(AppPath)
+Key4=Icon5
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=E:\MY_Prog\ExeScaner\Vista\new
+ProjectFolder=E:\MY_Prog\ExeScaner\Vista\new
+ServerSideCab=
+File1=E:\MY_Prog\ExeScaner\Vista\new\setup.exe
+File2=E:\MY_Prog\ExeScaner\Vista\new\Setup.Lst
+File3=E:\MY_Prog\ExeScaner\Vista\new\BGAntiVirus.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,355 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\MY_Prog\Firewall\NEW\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Exchange=No
+Jet 2.x=No
+Paradox=No
+Excel=No
+Text=No
+Lotus=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+AVHlp.CHI=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+E:\MY_Prog\Firewall\NEW\DBGWPROC.DLL=
+D:\Program Files\Common Files\System\ado\msado20.tlb=
+D:\WINDOWS\system32\shlwapi.dll=
+D:\WINDOWS\system32\wininet.dll=
+D:\WINDOWS\system32\psapi.dll=
+D:\WINDOWS\system32\iphlpapi.dll=
+D:\WINDOWS\system32\ws2_32.dll=
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.ocx=
+E:\MY_Prog\Update\updater.exe=
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\appblock.exe=
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\VBRegedit.exe=
+E:\MY_Prog\Firewall\NEW\BGAntiVirus.exe=
+D:\WINDOWS\system32\DBGWPROC.DLL=
+E:\MY_Prog\ExeScaner\RUS\new\MONITOR\folder\firewall\DBGWPROC.DLL=
+F:\Program Files\Common Files\System\ado\msado20.tlb=
+F:\WINDOWS\system32\shlwapi.dll=
+F:\WINDOWS\system32\wininet.dll=
+F:\WINDOWS\system32\psapi.dll=
+F:\WINDOWS\system32\iphlpapi.dll=
+F:\WINDOWS\system32\ws2_32.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+D:\WINDOWS\system32\comdlg32.ocx=
+D:\WINDOWS\system32\MSCOMCTL.OCX=
+D:\WINDOWS\system32\COMCTL32.OCX=
+D:\WINDOWS\system32\COMCT332.OCX=
+D:\WINDOWS\system32\MSCOMCT2.OCX=
+D:\WINDOWS\system32\MSSTDFMT.DLL=
+D:\WINDOWS\system32\scrrun.dll=
+F:\WINDOWS\system32\COMDLG32.OCX=
+F:\WINDOWS\system32\MSCOMCTL.OCX=
+F:\WINDOWS\system32\COMCTL32.OCX=
+F:\WINDOWS\system32\COMCT332.OCX=
+F:\WINDOWS\system32\mscomct2.ocx=
+F:\WINDOWS\system32\msstdfmt.dll=
+F:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+e:\my_prog\firewall\new\avbase.bel=
+e:\my_prog\firewall\new\inetbase.mdb=
+e:\my_prog\firewall\new\avhlp.chm=
+e:\my_prog\firewall\new\tabbutton.ctl=
+e:\my_prog\firewall\new\tabbutton.ctx=
+e:\my_prog\firewall\new\xpcheckbox.ctl=
+e:\my_prog\firewall\new\xpcheckbox.ctx=
+e:\my_prog\firewall\new\xpcmdbutton.ctl=
+e:\my_prog\firewall\new\xpcmdbutton.ctx=
+e:\my_prog\firewall\new\xpcmdpicture.ctl=
+e:\my_prog\firewall\new\xpcmdpicture.ctx=
+e:\my_prog\firewall\new\xpcmdpicture.lib=
+e:\my_prog\firewall\new\xpcmdpicture.oca=
+e:\my_prog\firewall\new\xpcmdpicture.ocx=
+e:\my_prog\firewall\new\xpradiobutton.ctl=
+e:\my_prog\firewall\new\xpradiobutton.ctx=
+e:\my_prog\update\updater.exe=
+e:\my_prog\update\usercontrol1.ctl=
+e:\my_prog\update\usercontrol1.ctx=
+e:\my_prog\exescaner\rus\new\package\support\appblock.exe=
+e:\my_prog\exescaner\rus\new\package\support\vbregedit.exe=
+e:\my_prog\exescaner\rus\new\package\support\progress.ctl=
+e:\my_prog\exescaner\rus\new\package\support\progress.ctx=
+e:\my_prog\exescaner\rus\new\package\support\read me.txt=
+e:\my_prog\firewall\new\bgantivirus.exe=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+E:\MY_Prog\Firewall\NEW\monitor.exe=Yes
+E:\MY_Prog\Firewall\NEW\Avbase.bel=Yes
+E:\MY_Prog\Firewall\NEW\inetbase.mdb=Yes
+E:\MY_Prog\Firewall\NEW\AVHlp.chm=Yes
+E:\MY_Prog\Firewall\NEW\TabButton.ctl=Yes
+E:\MY_Prog\Firewall\NEW\TabButton.ctx=Yes
+E:\MY_Prog\Firewall\NEW\xpcheckbox.ctl=Yes
+E:\MY_Prog\Firewall\NEW\xpcheckbox.ctx=Yes
+E:\MY_Prog\Firewall\NEW\xpcmdbutton.ctl=Yes
+E:\MY_Prog\Firewall\NEW\xpcmdbutton.ctx=Yes
+E:\MY_Prog\Firewall\NEW\xpcmdpicture.ctl=Yes
+E:\MY_Prog\Firewall\NEW\xpcmdpicture.ctx=Yes
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.lib=Yes
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.oca=Yes
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.ocx=Yes
+E:\MY_Prog\Firewall\NEW\xpradiobutton.ctl=Yes
+E:\MY_Prog\Firewall\NEW\xpradiobutton.ctx=Yes
+E:\MY_Prog\Update\updater.exe=Yes
+E:\MY_Prog\Update\UserControl1.ctl=Yes
+E:\MY_Prog\Update\UserControl1.ctx=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\appblock.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\VBRegedit.exe=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Progress.ctl=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Progress.ctx=Yes
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Read Me.txt=Yes
+E:\MY_Prog\Firewall\NEW\BGAntiVirus.exe=Yes
+F:\WINDOWS\system32\msvbvm60.dll=Yes
+F:\WINDOWS\system32\oleaut32.dll=Yes
+F:\WINDOWS\system32\olepro32.dll=Yes
+F:\WINDOWS\system32\asycfilt.dll=Yes
+F:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+F:\WINDOWS\system32\ws2_32.dll=Yes
+F:\WINDOWS\system32\iphlpapi.dll=Yes
+F:\WINDOWS\system32\psapi.dll=Yes
+F:\WINDOWS\system32\wininet.dll=Yes
+F:\WINDOWS\system32\shlwapi.dll=Yes
+F:\WINDOWS\system32\hhctrl.ocx=Yes
+F:\WINDOWS\system32\itss.dll=Yes
+F:\WINDOWS\system32\itircl.dll=Yes
+F:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+F:\WINDOWS\system32\MSJET35.DLL=Yes
+F:\WINDOWS\system32\MSJTER35.DLL=Yes
+F:\WINDOWS\system32\MSJINT35.DLL=Yes
+F:\WINDOWS\system32\vbajet32.dll=Yes
+F:\WINDOWS\system32\expsrv.dll=Yes
+F:\WINDOWS\system32\MSRD2X35.DLL=Yes
+F:\WINDOWS\system32\MSREPL35.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+F:\WINDOWS\system32\VB5DB.DLL=Yes
+F:\WINDOWS\system32\scrrun.dll=Yes
+F:\WINDOWS\system32\msvcrt.dll=Yes
+F:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+F:\WINDOWS\system32\MSBIND.DLL=Yes
+F:\WINDOWS\system32\msstdfmt.dll=Yes
+F:\WINDOWS\system32\COMCT232.OCX=Yes
+F:\WINDOWS\system32\mscomct2.ocx=Yes
+F:\WINDOWS\system32\COMCT332.OCX=Yes
+F:\WINDOWS\system32\COMCTL32.OCX=Yes
+F:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+F:\WINDOWS\system32\PICCLP32.OCX=Yes
+F:\WINDOWS\system32\MSADODC.OCX=Yes
+F:\WINDOWS\system32\MSDATGRD.OCX=Yes
+F:\WINDOWS\system32\COMDLG32.OCX=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+F:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+F:\WINDOWS\hh.exe=Yes
+E:\MY_Prog\Firewall\NEW\DBGWPROC.DLL=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\MY_Prog\Firewall\NEW\monitor.exe=$(AppPath)
+D:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\ws2_32.dll=$(WinSysPath)
+D:\WINDOWS\system32\iphlpapi.dll=$(WinSysPath)
+D:\WINDOWS\system32\psapi.dll=$(WinSysPath)
+D:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+D:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+D:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\itss.dll=$(WinSysPath)
+D:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+D:\WINDOWS\system32\hh.exe=$(WinSysPath)
+D:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+D:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+D:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+D:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+D:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+D:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+E:\MY_Prog\Firewall\NEW\DBGWPROC.DLL=$(WinSysPath)
+D:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+D:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+D:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+D:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+D:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\MY_Prog\Firewall\NEW\Avbase.bel=$(AppPath)
+E:\MY_Prog\Firewall\NEW\inetbase.mdb=$(AppPath)
+E:\MY_Prog\Firewall\NEW\AVHlp.chm=$(AppPath)
+E:\MY_Prog\Firewall\NEW\TabButton.ctl=$(AppPath)
+E:\MY_Prog\Firewall\NEW\TabButton.ctx=$(AppPath)
+E:\MY_Prog\Firewall\NEW\xpcheckbox.ctl=$(AppPath)
+E:\MY_Prog\Firewall\NEW\xpcheckbox.ctx=$(AppPath)
+E:\MY_Prog\Firewall\NEW\xpcmdbutton.ctl=$(AppPath)
+E:\MY_Prog\Firewall\NEW\xpcmdbutton.ctx=$(AppPath)
+E:\MY_Prog\Firewall\NEW\xpcmdpicture.ctl=$(AppPath)
+E:\MY_Prog\Firewall\NEW\xpcmdpicture.ctx=$(AppPath)
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.lib=$(AppPath)
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.oca=$(AppPath)
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.ocx=$(WinSysPath)
+E:\MY_Prog\Firewall\NEW\xpradiobutton.ctl=$(AppPath)
+E:\MY_Prog\Firewall\NEW\xpradiobutton.ctx=$(AppPath)
+E:\MY_Prog\Update\updater.exe=$(AppPath)
+E:\MY_Prog\Update\UserControl1.ctl=$(AppPath)
+E:\MY_Prog\Update\UserControl1.ctx=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\appblock.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\VBRegedit.exe=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Progress.ctl=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Progress.ctx=$(AppPath)
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Read Me.txt=$(AppPath)
+E:\MY_Prog\Firewall\NEW\BGAntiVirus.exe=$(AppPath)
+D:\WINDOWS\system32\DBGWPROC.DLL=$(WinSysPath)
+F:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\ws2_32.dll=$(WinSysPath)
+F:\WINDOWS\system32\iphlpapi.dll=$(WinSysPath)
+F:\WINDOWS\system32\psapi.dll=$(WinSysPath)
+F:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+F:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+F:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+F:\WINDOWS\system32\itss.dll=$(WinSysPath)
+F:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+F:\WINDOWS\system32\hh.exe=$(WinSysPath)
+F:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+F:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+F:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+F:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+F:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+F:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+F:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+F:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+E:\MY_Prog\ExeScaner\RUS\new\MONITOR\folder\firewall\DBGWPROC.DLL=$(WinSysPath)
+F:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+F:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+F:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+F:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+F:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+F:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+F:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+F:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+F:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+F:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\WINDOWS\hh.exe=$(WinSysPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\MY_Prog\Firewall\NEW\monitor.exe=No
+E:\MY_Prog\Firewall\NEW\Avbase.bel=No
+E:\MY_Prog\Firewall\NEW\inetbase.mdb=No
+E:\MY_Prog\Firewall\NEW\AVHlp.chm=No
+E:\MY_Prog\Firewall\NEW\TabButton.ctl=No
+E:\MY_Prog\Firewall\NEW\TabButton.ctx=No
+E:\MY_Prog\Firewall\NEW\xpcheckbox.ctl=No
+E:\MY_Prog\Firewall\NEW\xpcheckbox.ctx=No
+E:\MY_Prog\Firewall\NEW\xpcmdbutton.ctl=No
+E:\MY_Prog\Firewall\NEW\xpcmdbutton.ctx=No
+E:\MY_Prog\Firewall\NEW\xpcmdpicture.ctl=No
+E:\MY_Prog\Firewall\NEW\xpcmdpicture.ctx=No
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.lib=No
+E:\MY_Prog\Firewall\NEW\XpCmdPicture.oca=No
+E:\MY_Prog\Firewall\NEW\xpradiobutton.ctl=No
+E:\MY_Prog\Firewall\NEW\xpradiobutton.ctx=No
+E:\MY_Prog\Update\updater.exe=No
+E:\MY_Prog\Update\UserControl1.ctl=No
+E:\MY_Prog\Update\UserControl1.ctx=No
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\appblock.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\VBRegedit.exe=No
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Progress.ctl=No
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Progress.ctx=No
+E:\MY_Prog\ExeScaner\RUS\new\Package\Support\Read Me.txt=No
+E:\MY_Prog\Firewall\NEW\BGAntiVirus.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Belyash Anti-Trojan 2008b
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=E:\MY_Prog\Firewall\NEW\Package
+ProjectFolder=E:\MY_Prog\Firewall\NEW
+ServerSideCab=
+File1=E:\MY_Prog\Firewall\NEW\Package\setup.exe
+File2=E:\MY_Prog\Firewall\NEW\Package\Setup.Lst
+File3=E:\MY_Prog\Firewall\NEW\Package\monitor.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Belyash Anti-Trojan 2008b
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Belyash Anti-Trojan 2008b]
+Icon1=monitor.exe
+Title1=Shield
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=updater.exe
+Title2=Update
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3=AVHlp.chm
+Title3=Help
+StartIn3=$(AppPath)
+Key3=Icon4
+Icon4=BGAntiVirus.exe
+Title4=Scaner
+StartIn4=$(AppPath)
+Key4=Icon9
